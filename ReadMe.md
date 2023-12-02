@@ -16,9 +16,9 @@
 ## Intended Outcome
 
 Build an Azure Logic App that will automate data processing for structured JSON files and parse JSON objects in a workflow that triggers when a file is uploaded in Azure Storage
-and results in the desired JSON objects to securely transfer to a SharePoint list. This demo will provide proficiency in the workflows Azure Logic Apps is capable of performing, reducing the burden of manual labor
+and results in the desired JSON objects to securely transfer to a SharePoint list. This lab guide will provide proficiency in the workflows Azure Logic Apps can perform, reducing the burden of manual labor
 involving data by integrating automation processing. 
 
 ## How to begin
 
-Ensure all pre-requisites are met prior to starting the lab. Follow the 'Logic App Secure File Transfer Demo' Word document to start building the Logic App workflow.
+Ensure all pre-requisites are met prior to starting the lab. Follow the 'Logic App Secure File Transfer Lab' Word document to start building the Logic App workflow.
