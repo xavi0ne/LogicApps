@@ -17,7 +17,7 @@
 
 Build an Azure Logic App that will automate data processing for structured JSON files and parse JSON objects in a workflow that triggers when a file is uploaded in Azure Storage
 and results in the desired JSON objects to securely transfer to a SharePoint list. This demo will provide proficiency in the workflows Azure Logic Apps is capable of performing, reducing the burden of manual labor
-involving data by integrating a automation processing. 
+involving data by integrating automation processing. 
 
 ## How to begin
 
